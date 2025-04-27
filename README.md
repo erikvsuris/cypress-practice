@@ -85,12 +85,6 @@ npm run cy:open
 
 ### Testing Structure
 
-Behavior driven development (BDD) or AAA Standard (Act, Arrange, Assert)
-
-* Given (Act): condition.
-* When (Arrange): action.
-* Then (Assert): assertion.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
